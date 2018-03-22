@@ -1,4 +1,4 @@
-This repository contains the final Kernel source code for "Credit Card Fraud Detection" data set (http://kaggle.com/dalpozz/creditcardfraud)
+This repository contains the final Kernel source code for "Credit Card Fraud Detection" data set (https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 In this project was explored some ML techniques using the Scikit-Learn framework for an unbalanced dataset.
 
